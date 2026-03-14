@@ -1,7 +1,6 @@
 # � AI Research & Innovation Hub
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=asinghcsu.asinghcsu)](https://github.com/asinghcsu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-singh-09486226/)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=asinghcsu.asinghcsu)](https://github.com/asinghcsu)[![Portfolio](https://img.shields.io/badge/Portfolio-asinghcsu.github.io/asingh-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://asinghcsu.github.io/asingh/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-singh-09486226/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=az0wOaoAAAAJ)
 
 **Dr. Aditi Singh** | AI Researcher & Computer Science Educator at Cleveland State University
@@ -35,12 +34,12 @@ Exploring the frontiers of Artificial Intelligence, Large Language Models (LLMs)
 
 ## 🚀 Recent Publications
 
-### 2025
+### 2026
 - *"Agentic AI in Healthcare & Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-based Systems"*
-- *"Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG"*
 - *"Evolution of AI Agent Registry Solutions: Centralized, Enterprise, and Distributed Approaches"*
 
 ### 2024-2025
+- *"Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG"*
 - *"Revolutionizing Mental Health Care through LangChain: A Journey with a Large Language Model"*
 - *"Enhancing AI Systems with Agentic Workflows Patterns in Large Language Model"*
 - *"A Survey of Sustainability in Large Language Models: Applications, Economics, and Challenges"*
