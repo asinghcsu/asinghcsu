@@ -28,10 +28,10 @@ Exploring the frontiers of Artificial Intelligence, Large Language Models (LLMs)
 
 ## 📊 Research Impact
 
-**Publications**: 20+ peer-reviewed papers in journals and conferences
-**Awards**: Best Paper Awards (IEEE CCWC), Best Presenter Awards, Researcher Finalist (Women in AI)
-**Citations**: Active researcher with Google Scholar profile
-**Teaching**: AI and Computer Science courses at undergraduate/graduate levels
+- **Publications**: 20+ peer-reviewed papers in journals and conferences
+- **Awards**: Best Paper Awards (IEEE CCWC), Best Presenter Awards, Researcher Finalist (Women in AI)
+- **Citations**: Active researcher with Google Scholar profile
+- **Teaching**: AI and Computer Science courses at undergraduate/graduate levels
 
 ## 🚀 Recent Publications
 
