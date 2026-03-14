@@ -1,54 +1,127 @@
-# 👋 Hello, I'm Dr. Aditi Singh
+# � AI Research & Innovation Hub
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=asinghcsu.asinghcsu)](https://github.com/asinghcsu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-singh-09486226/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=az0wOaoAAAAJ)
 
-An AI researcher and computer science educator passionate about advancing artificial intelligence through research, teaching, and mentorship.
+**Dr. Aditi Singh** | AI Researcher & Computer Science Educator at Cleveland State University
 
-I'm dedicated to exploring artificial intelligence, large language models (LLMs), AI agents, Agentic AI, and the Agentic Web. With extensive publications and recognition through awards, I focus on both cutting-edge research and nurturing the next generation of AI practitioners.
+Exploring the frontiers of Artificial Intelligence, Large Language Models (LLMs), AI Agents, and the Agentic Web. Bridging cutting-edge research with practical applications in healthcare, education, and human-AI interaction.
 
-## 🚀 What I'm Currently Working On
+## 🔬 Current Research Focus
 
-- **Agentic AI Research** - Exploring agent-based systems and the Agentic Web
-- **LLM Applications** - Developing practical solutions with large language models
-- **AI Education** - Teaching computer science and AI courses at Cleveland State University
-- **Mentorship** - Guiding students in research projects and independent studies
+### Agentic AI & Agentic Web
+- **Agentic Retrieval-Augmented Generation (RAG)** - Survey on agentic RAG systems
+- **Agent Registry Solutions** - Centralized, enterprise, and distributed approaches
+- **Interoperability Protocols** - MCP, ACP, A2A, and ANP protocols for agent communication
 
-## 💼 Professional Experience
+### LLM Applications & Fairness
+- **Healthcare & Medicine** - LLM-based diagnostic systems and medical applications
+- **Bias Detection & Mitigation** - Fairness in AI systems and ethical AI development
+- **Prompt Engineering** - Systematic reviews and SWOT analysis of prompting techniques
+- **Multilingual AI** - Cross-lingual prompt engineering and NLP tasks
 
-I specialize in AI research, teaching, and academic leadership with expertise in:
-- Artificial Intelligence and Machine Learning
-- Large Language Models (LLMs) and Agentic AI
-- Computer Science Education
-- Research Publication and Academic Writing
+### Human-Robot Interaction & Gesture Recognition
+- **Conversational Gestures** - Automated recognition of non-emotional head gestures
+- **Synchronized Petri Net Modeling** - Multimodal modeling for HRI systems
+- **Gesture Generation** - Declarative modeling for robotic gesture synthesis
 
-Currently affiliated with **Cleveland State University** as a Computer Science Educator and AI Researcher.
+## 📊 Research Impact
 
-**Key Achievements:**
-- Extensive publications in AI, LLMs, and agent systems
-- Teaching courses in Operating Systems, Computer Security, Algorithms, and AI
-- Mentoring students in research projects and independent studies
-- Active in academic service and student organizations
+**Publications**: 20+ peer-reviewed papers in journals and conferences
+**Awards**: Best Paper Awards (IEEE CCWC), Best Presenter Awards, Researcher Finalist (Women in AI)
+**Citations**: Active researcher with Google Scholar profile
+**Teaching**: AI and Computer Science courses at undergraduate/graduate levels
 
-## 🛠️ Technical Skills
+## 🚀 Recent Publications
 
-### AI & Research
+### 2025
+- *"Agentic AI in Healthcare & Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-based Systems"*
+- *"Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG"*
+- *"Evolution of AI Agent Registry Solutions: Centralized, Enterprise, and Distributed Approaches"*
+
+### 2024-2025
+- *"Revolutionizing Mental Health Care through LangChain: A Journey with a Large Language Model"*
+- *"Enhancing AI Systems with Agentic Workflows Patterns in Large Language Model"*
+- *"A Survey of Sustainability in Large Language Models: Applications, Economics, and Challenges"*
+
+## 💼 Academic & Professional Experience
+
+**Cleveland State University** - Computer Science Educator & AI Researcher
+- Teaching: Operating Systems, Computer Security, Algorithms, Comparative Programming Languages
+- Research: Leading AI research initiatives and publishing in top venues
+- Mentorship: Guiding undergraduate/graduate research projects and independent studies
+
+**Research Interests**:
+- 🤖 Agentic AI and Multi-Agent Systems
+- 🧠 Large Language Models and Foundation Models
+- 🌐 Agentic Web and Interoperability
+- 🏥 AI in Healthcare and Medicine
+- 🤝 Human-Robot Interaction
+- ⚖️ AI Ethics and Fairness
+
+## 🛠️ Technical Expertise
+
+### AI & Machine Learning
 - Large Language Models (LLMs)
-- AI Agents & Agentic AI
-- Machine Learning
-- Prompt Engineering
+- AI Agents & Agentic Systems
+- Machine Learning & Deep Learning
+- Prompt Engineering & Fine-tuning
+- Computer Vision & Gesture Recognition
 
-### Programming & Tools
-- Python
-- TypeScript/JavaScript
-- React/Next.js
-- Academic Research Tools
+### Programming & Research Tools
+- Python (Primary research language)
+- Academic Writing & LaTeX
+- Data Analysis & Visualization
+- Research Methodology & Statistics
 
 ### Teaching & Education
 - Computer Science Curriculum Development
-- AI Education
-- Student Mentorship
-- Academic Advising
+- AI Education & Pedagogy
+- Student Research Mentorship
+- Academic Advising & Career Guidance
+
+## 🎓 Education & Recognition
+
+- **Research Awards**: Best Paper (IEEE CCWC), Best Presenter, Women in AI Finalist
+- **Academic Service**: ACM-W Chapter President, Conference Reviewer, Academic Committees
+- **Professional Certifications**: Academic and research credentials in AI/ML
+- **Community Impact**: Mentoring through Women in AI and academic organizations
+
+## 🤝 Research Collaboration
+
+I'm always interested in collaborating on:
+- 🤖 Agentic AI research and development
+- 🏥 Healthcare AI applications
+- 📚 AI education and curriculum development
+- 🔬 Interdisciplinary AI research projects
+
+## 📈 Research Metrics
+
+- **Publications**: 20+ in AI, LLMs, and HRI
+- **Research Areas**: Agentic AI, Healthcare AI, Human-Robot Interaction
+- **Teaching Experience**: 10+ years in Computer Science and AI
+- **Student Mentorship**: 50+ undergraduate/graduate research projects
+
+## 🌟 Beyond the Lab
+
+- **Mentorship**: Active in guiding the next generation of AI researchers
+- **Academic Service**: Leading initiatives in AI education and diversity
+- **Professional Development**: Continuous learning in emerging AI technologies
+- **Community**: Contributing to AI ethics, fairness, and responsible AI development
+
+*"Advancing AI through rigorous research, ethical innovation, and inclusive education"* 🚀
+
+## 📞 Connect for Research Collaboration
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-singh-09486226/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=az0wOaoAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Aditi_Singh31)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.singh22@csuohio.edu)
+
+---
+
+*Thank you for visiting my research profile! 🙏 Feel free to reach out for collaborations or discussions on AI research.*
 
 ## 📊 Research Focus
 
