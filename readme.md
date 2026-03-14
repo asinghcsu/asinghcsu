@@ -1,7 +1,10 @@
-# � AI Research & Innovation Hub
+# 🤖 AI Research & Innovation Hub
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=asinghcsu.asinghcsu)](https://github.com/asinghcsu)[![Portfolio](https://img.shields.io/badge/Portfolio-asinghcsu.github.io/asingh-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://asinghcsu.github.io/asingh/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-singh-09486226/)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=asinghcsu.asinghcsu)](https://github.com/asinghcsu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-singh-09486226/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=az0wOaoAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Aditi_Singh31)
+
 
 **Dr. Aditi Singh** | AI Researcher & Computer Science Educator at Cleveland State University
 
